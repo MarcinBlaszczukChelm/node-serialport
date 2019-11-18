@@ -1,0 +1,927 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Daring Fireball</title>
+<subtitle>By John Gruber</subtitle>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/"/>
+<link rel="self" type="application/atom+xml" href="https://daringfireball.net/feeds/main"/>
+<id>https://daringfireball.net/feeds/main</id>
+<updated>2019-11-16T22:12:12Z</updated>
+<rights>Copyright © 2019, John Gruber</rights>
+<entry>
+<title>Kolide</title>
+<link rel="alternate" type="text/html" href="https://kolide.com/?utm_source=df&utm_medium=talkshow&utm_campaign=launch"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryq"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/16/kolide"/>
+<id>tag:daringfireball.net,2019:/linked//6.36242</id>
+<published>2019-11-16T22:12:11Z</published>
+<updated>2019-11-16T22:12:12Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>My thanks to Kolide for sponsoring last week at DF. Kolide is a new Slack app that messages employees when their Mac, Windows, or Linux device is not compliant with security best-practices or policy.</p> <p>With this app, Kolide will notify users or groups when a device is out of compliance along with clear instructions about what is wrong, and step by step instructions to remediate the issue themselves. They can even confirm in real-time that they resolved the problem with an interactive button inside the Slack message!</p> <p>Unlike most endpoint security solutions, Kolide was designed with user privacy in mind. Your users will know what data is collected about their device, who can see that data, and can even view the full source code of the agent that is run on the device.</p> <p>Kolide is already used by hundreds of fast growing companies who want to level-up their device security without locking down their devices. <a href="https://kolide.com/?utm_source=df&amp;utm_medium=talkshow&amp;utm_campaign=launch">Try Kolide’s new product for free for 30 days for your entire fleet</a>.</p> <div> <a title="Permanent link to ‘Kolide’" href="https://daringfireball.net/linked/2019/11/16/kolide">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>1Password Takes $200M Accel Investment</title>
+<link rel="alternate" type="text/html" href="https://mjtsai.com/blog/2019/11/15/1password-takes-accel-investment/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryp"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/15/1password-funding"/>
+<id>tag:daringfireball.net,2019:/linked//6.36241</id>
+<published>2019-11-16T00:12:21Z</published>
+<updated>2019-11-16T00:17:42Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Good roundup of links and commentary by the inimitable Michael Tsai. The 1Password founders seem confident that they can expand rapidly into the enterprise world <em>without</em> losing the soul that has made their indie consumer app so beloved (and trusted). Most companies that have tried this, however, have failed. (Dropbox is the one that pops to mind first.)</p> <div> <a title="Permanent link to ‘1Password Takes $200M Accel Investment’" href="https://daringfireball.net/linked/2019/11/15/1password-funding">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Designer AirPods Cases</title>
+<link rel="alternate" type="text/html" href="https://www.purseblog.com/accessories/airpods-are-the-latest-way-to-don-your-favorite-designer/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryo"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/15/designer-airpods-cases"/>
+<id>tag:daringfireball.net,2019:/linked//6.36240</id>
+<published>2019-11-16T00:02:52Z</published>
+<updated>2019-11-16T00:59:14Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Kaitlin Serio, writing for PurseBlog:</p> <blockquote> <p>If you’re one of the many who go sans a long, dangly wire and you love designer goods then we’ve got you covered. Unsurprisingly, designers like Burberry, Bottega Veneta and Dior are adding AirPod cases to their lines of tech accessories. Louis Vuitton has also tapped into this trend, though the <a href="https://www.lofficielusa.com/fashion/louis-vuitton-airpods-case-2019">Mini Trunk AirPod Case</a> is not yet available online for sale.</p> </blockquote> <p>AirPods seems downright cheap when you’re putting them in a $560 case. I’m curious how many of these will fit a sidewise AirPods Pro case.</p> <div> <a title="Permanent link to ‘Designer AirPods Cases’" href="https://daringfireball.net/linked/2019/11/15/designer-airpods-cases">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Google Stadia Launch Seems a Little Rocky</title>
+<link rel="alternate" type="text/html" href="https://www.androidauthority.com/google-stadia-games-list-995367/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryn"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/14/stadia-launch"/>
+<id>tag:daringfireball.net,2019:/linked//6.36239</id>
+<published>2019-11-14T19:14:46Z</published>
+<updated>2019-11-15T23:44:59Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Only 12 games for now, and they’re all old titles. And in <a href="https://twitter.com/russellholly/status/1194694582333771781?s=21">this Twitter thread</a>, there’s a link to a Reddit AMA where someone from the Stadia team was “offering to hand-deliver kits in the Bay Area to make up for the shipping confusion.” All sorts of missing features and confusion about which devices work. Sounds like how you’d think Apple TV games would’ve rolled out, but instead, Apple Arcade rolled out perfectly.</p> <div> <a title="Permanent link to ‘Google Stadia Launch Seems a Little Rocky’" href="https://daringfireball.net/linked/2019/11/14/stadia-launch">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/2019/11/16-inch_macbook_pro_first_impressions"/>
+<link rel="shorturl" href="http://df4.us/rym"/>
+<id>tag:daringfireball.net,2019://1.36238</id>
+<published>2019-11-13T13:40:34Z</published>
+<updated>2019-11-14T22:57:23Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<summary type="text">
+We shouldn’t be celebrating the return of longstanding features we never should have lost in the first place. But Apple’s willingness to revisit these decisions — their explicit acknowledgment that, yes, keyboards are meant to by typed upon, not gazed upon — is, if not cause for a party, at the very least cause for a jubilant toast.
+</summary>
+<content type="html" xml:base="https://daringfireball.net/" xml:lang="en">
+<![CDATA[
+<h2>If You Try Sometimes, You Just Might Find, You Get What You Need</h2> <p>Apple today released its much-rumored new <a href="https://www.apple.com/macbook-pro-16/">16-inch MacBook Pro</a>.</p> <p>It is full of good news.</p> <p>Yesterday, Apple held a series of roundtable briefings for the media in New York. There was an on-the-record introduction followed by an off-the-record series of demos.<sup id="fnr1-2019-11-13"><a href="#fn1-2019-11-13">1</a></sup> The introduction was led by MacBook Pro product manager Shruti Haldea, along with senior director of Mac product marketing Tom Boger and Phil Schiller. Attending media received loaner units to review. Let’s not even pretend that a few hours is enough time for a proper review, but it’s more than enough time to establish some strong broad impressions. Here’s what you need to know, in what I think is the order of importance.</p> <h2>The Keyboard</h2> <p>We got it all: a return of scissor key mechanisms in lieu of butterfly switches, a return of the inverted-T arrow key arrangement, and a hardware Escape key. Apple stated explicitly that their inspiration for this keyboard is the Magic Keyboard that ships with iMacs. At a glance, it looks very similar to the butterfly-switch keyboards on the previous 15-inch MacBook Pros. But don’t let that fool you — it feels completely different. There’s a full 1mm of key travel; the butterfly keyboards only have 0.5mm. This is a very good compromise on key travel, balancing the superior feel and accuracy of more travel with the goal of keeping the overall device thin. (The new 16-inch MacBook Pro is, in fact, a little thicker than the previous 15-inch models overall.) Calling it the “Magic Keyboard” threads the impossible marketing needle they needed to thread: <a href="https://twitter.com/danielpunkass/status/1194613277227208705">it concedes everything while confessing nothing</a>. Apple has always had a great keyboard that could fit in a MacBook — it just hasn’t been in a MacBook the last three years.</p> <p>There’s also more space between keys — about 0.5mm. This difference is much more noticeable by feel than by sight. Making it easier to feel the gaps between keys really does make a difference. Like the 15-inch MacBook Pro, all 16-inch models come with the Touch Bar. But even there, there’s a slight improvement: it’s been nudged further above the top row of keys, to help avoid accidental touches. No haptic feedback or any other functional changes to the Touch Bar, though.</p> <p>It’s hard not to speculate that all of these changes are, to some degree, a de-Jony-Ive-ification of the keyboard. For all we on the outside know, this exact same keyboard might have shipped today even if Jony Ive were still at Apple.<sup id="fnr2-2019-11-13"><a href="#fn2-2019-11-13">2</a></sup> I’m not sure I know anyone, though, who would disagree that over the last 5-6 years, Apple’s balance of how things <em>work</em> versus how things <em>look</em> has veered problematically toward making things look better — hardware and software — at the expense of how they function.</p> <p>Allow me to fixate on one particular detail: the arrow keys. The only reason to switch from the classic upside-down T arrangement to full-size left and right arrow keys is that it makes the keyboard look better. With the upside-down T arrangement, the gaps above the left and right arrow look a little funny, in the abstract. But those gaps serve a huge functional purpose — they make it so much easier to put your fingers on those keys without looking at the keyboard. The gaps give you something to feel for. Having used recent MacBook family keyboards for months at a time over the past few years, the arrow key arrangement has been my biggest annoyance by far. More than the low-travel keys, more than the missing hardware Escape button, more than narrow gaps between keys. I just could never get used to not having those gaps in the arrow key layout. I resorted to putting small strips of <a href="https://en.wikipedia.org/wiki/Gaffer_tape">gaffer tape</a> on the lower half of the left and right keys to have <em>something</em> to feel for.</p> <p>What Apple emphasized yesterday in its presentation is not that the butterfly-switch keyboards are problematic or unpopular. They can’t do that — they still include them on every MacBook other than this new 16-inch model. And even if they do eventually switch the whole lineup to this new keyboard — and I think they will, but of course, when asked about that, they had no comment on any future products — it’s not Apple’s style to throw one of their old products under the proverbial bus. What Apple emphasized is simply that they listened to the complaints from professional MacBook users. They recognized how important the Escape key is to developers — they even mentioned <a href="https://www.vim.org/">Vim</a> by name during a developer tool demo. And they emphasized that they studied what makes for a good keyboard. What reduces mistakes, what increases efficiency. And they didn’t throw away the good parts of the butterfly keyboard — including excellent backlighting and especially the increased stability, where keys go down flat even when pressed off-center. The keys on this keyboard don’t wobble like the keys on pre-2016 MacBook Pro keyboards do.</p> <p>Typing is very quiet on the new keyboard, and the sound it does make is satisfying. Less click-ity, more chunk-ity.</p> <p>In short, Apple did not simply go back to the old style keyboards. It’s a new design, with the best attributes of the old 2015 keyboards and the recent butterfly-switch keyboards.</p> <p>Lastly, Apple seems very confident that this new keyboard design is durable and reliable. The new 16-inch MacBook Pro is not covered by Apple’s <a href="https://support.apple.com/keyboard-service-program-for-mac-notebooks">keyboard service program</a>, because they apparently don’t need to be.</p> <p>I expected Apple to do this — to correct the mistakes of the previous keyboard. But I feared that they wouldn’t, out of stubborn pride or just plain bad taste in keyboard design. It is a bit frustrating that it took them three years to do it, but they did it. This is what their modern MacBook keyboards should have been like all along.</p> <h2>Audio</h2> <p>A keyboard reboot we all saw coming. Here’s one I did not: the new 16-inch MacBook Pro has radically improved built-in speakers. This is the audio equivalent of going from chunky pixels to retina displays. It’s that big a difference.</p> <p>It’s not simply about being louder, although they are louder at maximum volume. They just sound impossibly better. They don’t merely sound like good laptop speakers — they sound like good dedicated portable speakers, period. In a small room, you can credibly use the 16-inch MacBook Pro to play music as though it’s an entertainment speaker system. And at maximum volume they really are a <em>lot</em> louder — without the sort of distortion we’ve all come to expect from laptop speakers at high volume.</p> <p>Apple’s demos pitted the new MacBook Pro against high-end models from Dell, Razer, and (I think) HP. It was an embarrassing comparison. I of course can see why Apple’s own demo compared the new MacBook Pro against laptops from competitors, but the difference is just as stark when compared to the 15-inch MacBook Pro from 2018.</p> <p>In addition to sounding <em>holy-shit-I-can’t-believe-these-are-laptop-speakers</em> better, the new speakers also vibrate less when the volume is high. Other laptop speakers, including Apple’s, pump audio through the keyboard. You can feel the whole machine vibrate with your fingers on the keys. Not so much with the new 16-inch MacBook Pro, even with the volume pumped all the way. Apple credits this to force-canceling woofers. Speaker drivers are paired back-to-back, emitting sound both up <em>and</em> down, which cancels out the physical force that creates vibrations and distorted sound. They provide some real bass.</p> <p>The amazing acoustic engineering that led to the HomePod and AirPods Pro is now starting to pay dividends in every product Apple makes with speakers. iPhone and iPad speakers have gotten really good too, but with those products, there’s been a steady improvement year after year. I can’t recall one single iPhone or iPad where the difference in sound quality over the previous generation was this significant.</p> <p>Really, I don’t think there’s anything I can write here that will convince you how good these speakers sound. However good you think I’m saying they sound, they sound way better than that.</p> <p>There’s more! Audio <em>input</em> is improved as well. The 16-inch MacBook Pro has a new 3-microphone array that Apple describes as “studio quality”. They claim you can credibly use it to record a podcast — a bold claim. The new three-microphone array certainly sounds noticeably better than the old built-in microphone. Here are some samples I recorded last night, at the desk in my basement where I usually record my podcast.</p> <p>2018 15-inch MacBook Pro:</p> <p><audio src = "/misc/2019/11/mbp-mic/2018-15-inch-MBP-Mic-Test.m4a" controls preload = "none" /></p> <p>The new 2019 16-inch MacBook Pro:</p> <p><audio src = "/misc/2019/11/mbp-mic/2019-16-inch-MBP-Mic-Test.m4a" controls preload = "none" /></p> <p>My iPhone 11 Pro:</p> <p><audio src = "/misc/2019/11/mbp-mic/iPhone-11-Pro-Mic-Test.m4a" controls preload = "none" /></p> <p>Shure Beta 87A microphone connected to an Onyx Blackjack XLR interface — the setup I use for my show:</p> <p><audio src = "/misc/2019/11/mbp-mic/Shure-Beta-87A-Mic-Test.m4a" controls preload = "none" /></p> <p>Would I recommend the new built-in MacBook Pro microphone for recording a podcast? No. But would I be willing to use it for my own show in a pinch? Yes. And it should be a great improvement to audio for teleconferencing and FaceTime.</p> <h2>The New Display</h2> <p>The new 16-inch display has a native resolution of 3072&#8201;&#215;&#8201;1920 pixels, with a density of 226 pixels per inch. The old 15-inch retina display was 2880&#8201;&#215;&#8201;1800 pixels, with a density of 220 pixels per inch. Apple didn’t just use the same number of pixels and make the pixels bigger — they actually made the pixels slightly <em>smaller</em> and added more of them to make a bigger display. Brightness and color gamut are unchanged. No rounded corners (like on the iPad Pro and iPhone X/XS/11) — the display is still a good old-fashioned rectangle with pure corners.</p> <h2>Computery Stuff</h2> <p>The 16-inch MacBook Pro is the new “big” MacBook Pro — it replaces the previous 15-inch MacBook Pro in the lineup at the same prices: $2400 for a 6-core base model and $2800 for the 8-core base model.</p> <p>The Intel chips are the same as the ones available on the May 2019 15-inch MacBook Pro. So it goes, until Apple switches to its own chips for Macs — these are still the best laptop chips Intel makes. It’s a bit unusual, to say the least, that a major update to the flagship MacBook uses the same CPUs as the generation it’s replacing.</p> <p>But there are performance improvements. An all-new thermal system means the chips can run at peak performance longer. Graphics are faster, with the debut of <a href="https://www.amd.com/en/products/graphics/amd-radeon-rx-5500m">AMD’s Radeon Pro 5000M series GPUs</a>. The base models come with 16 GB of faster DDR4 RAM, and can now be configured with up to 64 GB. Apple also now offers up to 8 TB of SSD storage, which they believe to be the first 8 TB SSD on the market.</p> <p>The port situation is unchanged: four Thunderbolt 3 (USB-C) ports, two on each side, and a headphone jack.</p> <p>The 16-inch MacBook Pro does have a slightly larger footprint than the old 15-inch models. It’s slightly heavier too (4.3 vs. 4.02 pounds) and as mentioned before, it’s slightly thicker (1.62 vs. 1.55 cm). But in hand and in use, it effectively feels the same size as the 15-inch MacBook Pro.</p> <h2>Conclusion</h2> <p>It feels a bit silly to be excited about a classic arrow key layout, a hardware Escape key, and key switches that function reliably and feel good when you type with them, but that’s where we are. The risk of being a Mac user is that we’re captive to a single company’s whims.</p> <p>No one would ever suggest that the steering wheel for a car be designed by people who don’t drive. But yet somehow the entire Macintosh world has spent the last three years dealing with or avoiding keyboards that were seemingly designed by people who don’t type.<sup id="fnr3-2019-11-13"><a href="#fn3-2019-11-13">3</a></sup> The whole saga of the butterfly keyboards — their unreliable switches, poor typing feel, and anti-functional layout — betrays a certain arrogance. The more powerful an organization — a corporation, a nation, a sports team, whatever — the more at risk that organization is to hubris. It’s power that allows one to act on hubris.</p> <p>We shouldn’t be celebrating the return of longstanding features we never should have lost in the first place. But Apple’s willingness to revisit these decisions — their explicit acknowledgment that, yes, keyboards are meant to by typed upon, not gazed upon — is, if not cause for a party, at the very least cause for a jubilant toast.</p> <p>This is a MacBook you can once again argue is the best laptop hardware money can buy.</p> <div class="footnotes"> <hr /> <ol> <li id="fn1-2019-11-13"> <p>The demos all included the new Mac Pro too, which they announced will be shipping in “December”. No additional information on Mac Pro pricing until it ships, alas.&nbsp;<a href="#fnr1-2019-11-13" class="footnoteBackLink" title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p> </li> <li id="fn2-2019-11-13"> <p>Actually, Ive is still listed on <a href="https://www.apple.com/leadership/">Apple’s leadership page</a> as Chief Design Officer.&nbsp;<a href="#fnr2-2019-11-13" class="footnoteBackLink" title="Jump back to footnote in the text.">&#x21A9;&#xFE0E;︎</a></p> </li> <li id="fn3-2019-11-13"> <p>One could argue too, that in addition to keyboards designed by people who don’t type, modern MacBooks offer ports selected by people who never connect peripherals to their computers. But while USB-C is clearly taking over slower than Apple expected, it <em>is</em> taking over. Apple still thinks it will be proven right on going all-in on USB-C for MacBook ports.&nbsp;<a href="#fnr3-2019-11-13" class="footnoteBackLink" title="Jump back to footnote 3 in the text.">&#x21A9;&#xFE0E;︎</a></p> </li> </ol> </div>
+]]>
+</content>
+<title>
+★ 16-Inch MacBook Pro First Impressions: Great Keyboard, Outstanding Speakers
+</title>
+</entry>
+<entry>
+<title>
+I Shit You Not: Disney+ Version of ‘Star Wars’ Alters the Han/Greedo Scene Again
+</title>
+<link rel="alternate" type="text/html" href="https://www.washingtonpost.com/arts-entertainment/2019/11/13/han-shot-greedo-disney-plus-maclunkey/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryl"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/12/star-wars-greedo"/>
+<id>tag:daringfireball.net,2019:/linked//6.36237</id>
+<published>2019-11-12T21:38:10Z</published>
+<updated>2019-11-15T23:45:15Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>The 4K version on Disney+ — which launched today — was recut again while George Lucas was still in charge. If he hadn’t sold the franchise to Disney we’d eventually have Han armed with a squirt gun. 🔫</p> <div> <a title="Permanent link to ‘I Shit You Not: Disney+ Version of ‘Star Wars’ Alters the Han/Greedo Scene Again’" href="https://daringfireball.net/linked/2019/11/12/star-wars-greedo">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+The Information: Apple Held 1,000-Person Internal Meeting Revealing Plans for 2022 AR Headset and 2023 AR Glasses
+</title>
+<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-eyes-2022-release-for-ar-headset-2023-for-glasses"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryj"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/11/apple-ar-meeting"/>
+<id>tag:daringfireball.net,2019:/linked//6.36235</id>
+<published>2019-11-12T00:04:42Z</published>
+<updated>2019-11-12T00:04:43Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Wayne Ma, Alex Heath, and Nick Wingfield, reporting for the subscriber-only The Information:</p> <blockquote> <p>Mike Rockwell, who heads the team responsible for Apple’s AR and virtual reality initiatives, led the meeting, which included new details about the design and features of the AR headset, these people said. The product timetables run counter to recent analyst and media reports that said an Apple AR device could arrive as early as next year.</p> </blockquote> <p>Pretty sure the only source for that is <a href="https://www.bloomberg.com/news/articles/2019-10-21/why-2020-is-looking-great-for-apple-products-and-consumer-gadgets">Bloomberg reporter Mark Gurman</a>. 2020 never seemed realistic to me.</p> <blockquote> <p>The group presentation was attended by enough employees to fill the 1,000-seat Steve Jobs Theater at Apple headquarters, suggesting Apple has a sizable team working on AR projects.</p> </blockquote> <p>This is an extraordinary leak. Either Apple very rarely holds internal events like this about future products, or, when they do, nothing leaks about them.</p> <blockquote> <p>Apple’s headset, code-named N301, will offer a hybrid of AR and VR capabilities, according to people familiar with the device. It resembles the Oculus Quest, a Facebook virtual reality headset released earlier this year, but with a sleeker design, these people said. Cameras will be mounted on the outside of the device, allowing people to see and interact with their physical surroundings, they said. Apple wants to make heavy use of fabrics and lightweight materials to ensure the device is comfortable to wear for extended periods of time, executives said in the presentation in October.</p> </blockquote> <p>Something even remotely like an <a href="https://www.oculus.com/quest/">Oculus Quest</a> doesn’t seem like an Apple product. But who knows.</p> <blockquote> <p>In contrast, Apple’s AR glasses, code-named N421, present bigger technical challenges than the headset and are further from release. They are meant to be worn all day, and current prototypes look like high-priced sunglasses with thick frames that house the battery and chips, according to a person who has seen them.</p> <p>Additionally, Apple has explored the use of lenses for the glasses that darken when people are using AR on them, a way of letting others know the wearer of the glasses is distracted, said another person involved with the project.</p> </blockquote> <p>That window-shade feature sounds dystopic.</p> <p>And why would people who don’t need glasses want to wear thick glasses all day? And they think it will replace phones in a decade? Do we really want our phone display in front of our eyes all day? I just don’t get it.</p> <blockquote> <p>People familiar with the October meeting said it was unusual for Apple, one of the most secretive companies in Silicon Valley, to brief so many employees at once about product roadmaps.</p> </blockquote> <p>To say the least.</p> <div> <a title="Permanent link to ‘The Information: Apple Held 1,000-Person Internal Meeting Revealing Plans for 2022 AR Headset and 2023 AR Glasses’" href="https://daringfireball.net/linked/2019/11/11/apple-ar-meeting">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<link rel="alternate" type="text/html" href="https://kolide.com/?utm_source=df&utm_medium=talkshow&utm_campaign=launch"/>
+<link rel="shorturl" href="http://df4.us/ryk"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2019/11/kolide_user_focused_security_f_5"/>
+<id>
+tag:daringfireball.net,2019:/feeds/sponsors//11.36236
+</id>
+<author>
+<name>Daring Fireball Department of Commerce</name>
+</author>
+<published>2019-11-11T19:05:31-05:00</published>
+<updated>2019-11-11T19:05:32-05:00</updated>
+<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en">
+<![CDATA[
+<p>Kolide is a new Slack app that messages employees when their Mac, Windows, or Linux device is not compliant with security best-practices or policy.</p> <p>With this app, Kolide will notify users or groups when a device is out of compliance along with clear instructions about what is wrong, and step by step instructions to remediate the issue themselves. They can even confirm in real-time that they resolved the problem with an interactive button inside the Slack message!</p> <p>Unlike most endpoint security solutions, Kolide was designed with user privacy in mind. Your users will know what data is collected about their device, who can see that data, and can even view the full source code of the agent that is run on the device.</p> <p>Kolide is already used by hundreds of fast growing companies who want to level-up their device security without locking down their devices. Try Kolide’s new product for free for 30 days for your entire fleet by visiting <a href="https://kolide.com/">https://kolide.com/</a>.</p> <div> <a title="Permanent link to ‘Kolide: User Focused Security for Teams That Slack’" href="https://daringfireball.net/feeds/sponsors/2019/11/kolide_user_focused_security_f_5">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+<title>
+[Sponsor] Kolide: User Focused Security for Teams That Slack
+</title>
+</entry>
+<entry>
+<title>Morning Brew</title>
+<link rel="alternate" type="text/html" href="https://www.morningbrew.com/?utm_source=daring&utm_medium=rss&utm_campaign=feed"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryi"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/09/morning-brew"/>
+<id>tag:daringfireball.net,2019:/linked//6.36234</id>
+<published>2019-11-09T21:54:49Z</published>
+<updated>2019-11-16T00:03:15Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>My thanks to Morning Brew for once again sponsoring DF. There’s a reason over 1 million people start their day with Morning Brew — the daily email that delivers the latest news from Wall Street to Silicon Valley. Business news doesn’t have to be dry and dense… make your mornings more enjoyable, for free.</p> <p>I’ve been subscribed for over six months. It’s a great daily read — concise, fun, and a clean crisp design. You get one email each morning and that’s it. <a href="https://www.morningbrew.com/?utm_source=daring&amp;utm_medium=rss&amp;utm_campaign=feed">I recommend it.</a></p> <div> <a title="Permanent link to ‘Morning Brew’" href="https://daringfireball.net/linked/2019/11/09/morning-brew">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+Carfection Shoots Bullitt Mustang Film Using iPhone 11 Pro
+</title>
+<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Z7fFvZoXfOM"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryh"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/09/bullitt-mustang-carfection"/>
+<id>tag:daringfireball.net,2019:/linked//6.36233</id>
+<published>2019-11-09T21:51:37Z</published>
+<updated>2019-11-09T21:51:38Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Carfection:</p> <blockquote> <p>Our sister channel CNET challenged us to shoot an entire film using only an iPhone 11 Pro. We reviewed the Bullitt Mustang (the special edition of the Mustang GT) and tried to get as close to the quality of our regular Carfection films as possible.</p> </blockquote> <p>Impressive results (and a very cool car).</p> <p>CNet’s Andrew Hoyle has <a href="https://www.cnet.com/news/iphone-11-pro-is-it-good-enough-to-replace-a-professional-video-camera/">a story and behind-the-scenes discussion</a> with cinematographer Charlie Rose.</p> <p>(<a href="https://twitter.com/GokulBhargav/status/1192919139381207040">Via Gokul Bhargav</a>.)</p> <div> <a title="Permanent link to ‘Carfection Shoots Bullitt Mustang Film Using iPhone 11 Pro’" href="https://daringfireball.net/linked/2019/11/09/bullitt-mustang-carfection">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+iOS 13.2.2 Released, With Fix for the Bug That Was Massacring Apps in the Background
+</title>
+<link rel="alternate" type="text/html" href="https://9to5mac.com/2019/11/07/ios-13-2-2-now-available-with-fix-for-background-app-performance-more/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryg"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/08/ios-13-2-2"/>
+<id>tag:daringfireball.net,2019:/linked//6.36232</id>
+<published>2019-11-09T03:02:21Z</published>
+<updated>2019-11-09T03:02:21Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Chance Miller, 9to5Mac:</p> <blockquote> <p>If you’re wondering what happened to iOS 13.2.1, Apple released it last week exclusively for the HomePod. The initial <a href="https://9to5mac.com/2019/10/28/some-users-experiencing-bricked-homepod-after-updating-to-ios-13-2/">HomePod 13.2 update</a> caused some people to experience bricked HomePods, and Apple released iOS 13.2.1 to solve those problems for HomePod owners.</p> <p>The biggest change in iOS 13.2.2 is a fix for issues related to <a href="https://9to5mac.com/2019/11/01/ios-13-2-killing-background-apps/">background applications and multitasking</a>. This RAM management problem caused applications to quit when running in the background, which significantly hindered multitasking performance and capabilities.</p> </blockquote> <p>So 13.2.0 was released for iPhones and iPads and HomePods, but it bricked HomePods and caused <a href="https://daringfireball.net/linked/2019/10/31/ios-13-2-background-app-massacre">apps to be killed erroneously</a> while multitasking on iPhones and iPads. 13.2.1 was only for HomePods. 13.2.2 is only for iPhones and iPads — but on iPads it’s called “iPadOS”, even though on HomePods it’s called “iOS”, even though a HomePod isn’t really what anyone would consider an iOS device.</p> <p>Got it.</p> <div> <a title="Permanent link to ‘iOS 13.2.2 Released, With Fix for the Bug That Was Massacring Apps in the Background’" href="https://daringfireball.net/linked/2019/11/08/ios-13-2-2">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Every Horse Emoji, Ranked</title>
+<link rel="alternate" type="text/html" href="https://twitter.com/jelenawoehr/status/1191872816372600832"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryf"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/08/horse-emoji"/>
+<id>tag:daringfireball.net,2019:/linked//6.36231</id>
+<published>2019-11-09T02:51:08Z</published>
+<updated>2019-11-09T03:18:06Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Jelena Woehr:</p> <blockquote> <p>Believe it or not, this horse’s lack of eyes may not limit athletic performance. Many blind horses do well under saddle. However, the missing right hindlimb will severely limit potential for soundness even as a companion. Discuss euthanasia with vet.</p> </blockquote> <p>For reasons I will not go into here, at this moment, I’ve got emoji on my mind today. This thread is delightful.</p> <div> <a title="Permanent link to ‘Every Horse Emoji, Ranked’" href="https://daringfireball.net/linked/2019/11/08/horse-emoji">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+Amazon Patches Ring Video Doorbell Vulnerability That Could Allow Hackers to Breach Owner’s Wi-Fi Network
+</title>
+<link rel="alternate" type="text/html" href="https://www.computing.co.uk/ctg/news/3083564/ring-doorbell-vulnerability-wifi"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rye"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/08/amazon-ring-http"/>
+<id>tag:daringfireball.net,2019:/linked//6.36230</id>
+<published>2019-11-09T01:12:39Z</published>
+<updated>2019-11-09T01:13:42Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Computing:</p> <blockquote> <p>Once the device is reset, it starts the process of pairing itself with the owner’s Wi-Fi network. Because the exchange of information between the device and the app is performed via an unsecured HTTP connection, it enables a hacker within range of the Wi-Fi network to intercept the login details.</p> <p>The patch released by Ring to mitigate the vulnerability ensures that the device uses an HTTPS connection while broadcasting a Wi-Fi signal for the phone to grab. The connection is also secured through a digital certificate, signed by the firm and validated by the app.</p> </blockquote> <p>Ring was using HTTP? That seems less like a mistake and more like gross incompetence.</p> <div> <a title="Permanent link to ‘Amazon Patches Ring Video Doorbell Vulnerability That Could Allow Hackers to Breach Owner’s Wi-Fi Network ’" href="https://daringfireball.net/linked/2019/11/08/amazon-ring-http">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Inessential Turns 20</title>
+<link rel="alternate" type="text/html" href="https://inessential.com/2019/11/07/happy_20th_to_this_blog_"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryd"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/08/inessential-20"/>
+<id>tag:daringfireball.net,2019:/linked//6.36229</id>
+<published>2019-11-09T00:20:48Z</published>
+<updated>2019-11-15T03:00:51Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Brent Simmons:</p> <blockquote> <p>Old proverb: “The best time to start a blog is 20 years ago. The second-best time is today.”</p> </blockquote> <div> <a title="Permanent link to ‘Inessential Turns 20’" href="https://daringfireball.net/linked/2019/11/08/inessential-20">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Bond Film Title Anagrams</title>
+<link rel="alternate" type="text/html" href="https://twitter.com/MrDavidReed/status/1192366885578432512"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ryc"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/07/bond-film-title-anagrams"/>
+<id>tag:daringfireball.net,2019:/linked//6.36228</id>
+<published>2019-11-07T19:43:04Z</published>
+<updated>2019-11-15T23:46:17Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>“Overtired Newsroom” and “English Tutor Hoedown” are both amazing, in their own ways. Whole thread is very fun, including great poster art. 🍸</p> <p><!~- &#x1F378; --></p> <div> <a title="Permanent link to ‘Bond Film Title Anagrams’" href="https://daringfireball.net/linked/2019/11/07/bond-film-title-anagrams">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Apple TV, Apple TV, Apple TV, and Apple TV+</title>
+<link rel="alternate" type="text/html" href="https://dcurt.is/apple-tv-all-the-way-down"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rya"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/05/curtis-apple-tv"/>
+<id>tag:daringfireball.net,2019:/linked//6.36226</id>
+<published>2019-11-05T22:40:49Z</published>
+<updated>2019-11-05T22:40:50Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Dustin Curtis:</p> <blockquote> <p>Apple TV is a hardware device.</p> <p>Apple TV is an app on Apple TV that curates content you can buy from Apple and also content you can stream through other installed apps (but not all apps, and there is no way to tell which ones).</p> <p>Apple TV is an app on iOS/iPadOS devices that operates similarly to Apple TV on Apple TV. Apple TV on iOS/iPadOS syncs playback and watch history with Apple TV on Apple TV, but only if the iOS/iPadOS device has the same apps installed as the Apple TV — and not all apps are available on all platforms. Apple TV is also an app on macOS, but it does not show content that can only be streamed from external apps on an Apple TV or iOS/iPadOS device.</p> </blockquote> <p>When you spell it all out, as Curtis does here, it really does expose how confusing a lot of this is.</p> <div> <a title="Permanent link to ‘Apple TV, Apple TV, Apple TV, and Apple TV+’" href="https://daringfireball.net/linked/2019/11/05/curtis-apple-tv">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+Electron Apps Are Being Rejected From the Mac App Store for Calling Private APIs
+</title>
+<link rel="alternate" type="text/html" href="https://mjtsai.com/blog/2019/11/04/electron-apps-rejected-from-the-mac-app-store/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ry9"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/05/electron-mac-app-store"/>
+<id>tag:daringfireball.net,2019:/linked//6.36225</id>
+<published>2019-11-05T22:25:37Z</published>
+<updated>2019-11-08T01:53:24Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Michael Tsai:</p> <blockquote> <p>So there are a multiple problems here:</p> <ol> <li><p>It’s (apparently) impossible for Chromium to get competitive performance and battery life without using private API, which Safari freely uses.</p></li> <li><p>Apple probably has good reasons for keeping these APIs private.</p></li> <li><p>Private API has always been banned, but Apple has been accepting these apps for years and then abruptly stopped without any notice.</p></li> <li><p>Apps using Electron probably didn’t know that they were even using private API. Neither Xcode nor Application Loader reports this, and App Review was accepting the apps.</p></li> <li><p>The rule is not being enforced equally.</p></li> </ol> </blockquote> <p>Doesn’t seem clear yet if this is a new policy, or just random App Store approval capriciousness. If enforced, this will require significant changes to Chromium, the rendering engine of Google Chrome that’s the foundation of Electron.</p> <div> <a title="Permanent link to ‘Electron Apps Are Being Rejected From the Mac App Store for Calling Private APIs’" href="https://daringfireball.net/linked/2019/11/05/electron-mac-app-store">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Nice Feature on Gus Mueller in the Mac App Store</title>
+<link rel="alternate" type="text/html" href="https://apps.apple.com/us/story/id1467838622"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ry8"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/05/mueller-mac-app-store"/>
+<id>tag:daringfireball.net,2019:/linked//6.36224</id>
+<published>2019-11-05T22:15:26Z</published>
+<updated>2019-11-08T23:55:28Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>The Mac App Store:</p> <blockquote> <p>Sure, it’s one of the fastest ways to crop, resize, and add text to an image. And yes, it offers more than 100 photo effects as well as nondestructive filters. But the appeal of Acorn has always been that it doesn’t overwhelm you. In fact, Mueller’s inspiration for coding the app was largely creative. “I was curious what it would take to write an image editor,” he says.</p> </blockquote> <p>Nice little feature. Acorn remains one of my very favorite and most-used apps.</p> <div> <a title="Permanent link to ‘Nice Feature on Gus Mueller in the Mac App Store’" href="https://daringfireball.net/linked/2019/11/05/mueller-mac-app-store">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<link rel="alternate" type="text/html" href="https://www.morningbrew.com/?utm_source=daring&utm_medium=rss&utm_campaign=feed"/>
+<link rel="shorturl" href="http://df4.us/ryb"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2019/11/morning_brew_3"/>
+<id>
+tag:daringfireball.net,2019:/feeds/sponsors//11.36227
+</id>
+<author>
+<name>Daring Fireball Department of Commerce</name>
+</author>
+<published>2019-11-05T18:27:07-05:00</published>
+<updated>2019-11-05T18:27:08-05:00</updated>
+<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en">
+<![CDATA[
+<p>There’s a reason over 1 million people start their day with Morning Brew — the daily email that delivers the latest news from Wall Street to Silicon Valley. Business news doesn’t have to be dry and dense… make your mornings more enjoyable, for free. <a href="https://www.morningbrew.com/?utm_source=daring&amp;utm_medium=rss&amp;utm_campaign=feed">Check it out</a>.</p> <div> <a title="Permanent link to ‘Morning Brew’" href="https://daringfireball.net/feeds/sponsors/2019/11/morning_brew_3">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+<title>[Sponsor] Morning Brew</title>
+</entry>
+<entry>
+<title>Guardian Firewall</title>
+<link rel="alternate" type="text/html" href="https://apps.apple.com/app/apple-store/id1363796315?pt=118180167&ct=df3&mt=8"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ry7"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/02/guardian-firewall"/>
+<id>tag:daringfireball.net,2019:/linked//6.36223</id>
+<published>2019-11-03T00:19:56Z</published>
+<updated>2019-11-03T00:26:26Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>My thanks to Guardian Firewall for sponsoring this week at DF. Guardian Firewall is a personal data protection solution for iOS devices that offers system-wide blocking and detection of user location tracking, email receipt tracking, and other forms of undesired information collection, and additionally secures all network traffic using a VPN coupled with a lightweight custom-designed firewall.</p> <p>Sounds complicated, right? Well, behind the scenes, it is. Guardian Firewall is doing a lot of clever stuff to block all these trackers <em>and</em> keep your network speeds super fast. From the user’s perspective, it couldn’t be simpler. It’s a simple app that starts with one big button to toggle Guardian protection. That’s all you need to do. In the second tab, Guardian keeps a log of all the trackers it identified and blocked. My list is hundreds long just from <em>today</em>. Guardian does one thing and does it really well.</p> <p>Guardian is a small but fast-growing startup aiming to help users fight back against ubiquitous data collection by entities attempting to monetize and/or exploit their personal data. Over the next 90 days, Guardian plans to launch new features for power users, including custom firewall rules, as well as support for additional platforms. Founder and CEO Will Strafach has been a longtime mainstay in the iOS security community.</p> <p>I’ve been running Guardian Firewall for weeks on my iPhone. It’s everything you’d want it to be: invisible, seamless privacy protection. Nothing breaks, nothing feels slow. It’s a service I’m happy to pay for and a company I’m happy to support. You can try it for free — <a href="https://guardianapp.com/faq/">and read their excellent FAQ for details on how everything works</a>.</p> <div> <a title="Permanent link to ‘Guardian Firewall’" href="https://daringfireball.net/linked/2019/11/02/guardian-firewall">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>AirPods Pro Replacement Tips</title>
+<link rel="alternate" type="text/html" href="https://twitter.com/flyosity/status/1188862697963696128"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ry6"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/01/airpods-pro-tips"/>
+<id>tag:daringfireball.net,2019:/linked//6.36222</id>
+<published>2019-11-02T04:59:04Z</published>
+<updated>2019-11-02T22:46:18Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Mike Rundle, on Twitter:</p> <blockquote> <p>The killer feature of the AirPods Pro is the interchangeable silicone tips that <em>click</em> into place and don’t have to be mashed and misshapen to reattach like every other stupid pair of earbuds on the market.</p> </blockquote> <p>On the other side, <a href="https://twitter.com/SomeGadgetGuy/status/1189934436466323457">Juan Carlos Bagnell</a>:</p> <blockquote> <p>iFixit confirming my fears. AirPod Pros are un-repairable. Apple will only replace buds for “service”. Worse, they use a proprietary ear tip design, so you can’t swap to aftermarket tips (NO FOAM FOR YOU) until the grey market rips off the design.</p> </blockquote> <p>Quinn Nelson, responding to Bagnell:</p> <blockquote> <p>Replacement tips are $4 for a six pack. This design is vastly superior to the universal barrel design which for people with small ear canals (like me) hurts a ton. This is not something to criticize, imo. It’s okay to deviate from the norm if you can improve on it.</p> </blockquote> <p>That really is the crux of it. <em>Better</em> necessarily implies <em>different</em>. Complaining that the AirPods Pro tips are custom-designed by Apple is like complaining back in 2015 that Apple Watch used custom strap connectors. It’s a better connector and there will be dozens of third-party options soon — by the end of this month, I bet.</p> <div> <a title="Permanent link to ‘AirPods Pro Replacement Tips’" href="https://daringfireball.net/linked/2019/11/01/airpods-pro-tips">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>‘Puts’</title>
+<link rel="alternate" type="text/html" href="https://www.washingtonpost.com/technology/2019/11/01/google-will-acquire-fitbit-billion-deal-direct-challenge-apple/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ry5"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/01/puts"/>
+<id>tag:daringfireball.net,2019:/linked//6.36221</id>
+<published>2019-11-02T02:34:37Z</published>
+<updated>2019-11-02T02:41:16Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Rachel Siegel and Tony Romm, reporting for The Washington Post on Google’s acquisition of Fitbit:</p> <blockquote> <p>The deal puts Alphabet, Google’s parent company, in a race against Apple when it comes to tracking fitness and health data.</p> </blockquote> <p>Somehow, if it were the other way around — if Google’s wearable devices had the sales and cultural ubiquity of Apple Watch and AirPods, and Apple’s five-year wearable efforts had the market share and brand-awareness of Google’s — I highly doubt that The Post would posit Apple’s acquisition of Fitbit at a garbage bin price as their entry into the fitness tracking race against Google.</p> <p><a href="https://en.wikipedia.org/wiki/Wear_OS">Android Wear launched over five years ago</a>. Google has been in this race against Apple for close to a decade and they’ve gotten their ass handed to them.</p> <div> <a title="Permanent link to ‘‘Puts’’" href="https://daringfireball.net/linked/2019/11/01/puts">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Google to Acquire Fitbit for $2.1 Billion</title>
+<link rel="alternate" type="text/html" href="https://www.cnbc.com/2019/11/01/google-to-acquire-fitbit-valuing-the-smartwatch-maker-at-about-2point1-billion.html"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ry4"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/01/googlebit"/>
+<id>tag:daringfireball.net,2019:/linked//6.36220</id>
+<published>2019-11-02T01:32:10Z</published>
+<updated>2019-11-02T23:46:15Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>CNBC:</p> <blockquote> <p>Google will pay $7.35 per share in cash for the acquisition, Fitbit said. Fitbit’s all time high share price was $51.90 on Aug. 5, 2015, a couple months after its stock market debut at $30.40. The deal is expected to close in 2020, according to the announcement.</p> </blockquote> <p>Apple is showing that wearables are a huge market moving forward, and <a href="https://daringfireball.net/linked/2019/11/01/aapl-q4-2019-results">Apple is the only one getting it right</a> so far. I don’t see Fitbit helping Google here.</p> <p><a href="https://twitter.com/daiwaka/status/1190320470253420544">Daisuke Wakabayashi</a>:</p> <blockquote> <p>The hardware business is very hard. Even if you “make it” and avoid burning all your cash, the best you can hope for is to be gobbled up by a giant. Nest (Google), Ring (Amazon), Eero (Amazon), Beats (Apple) and, now, Fitbit (Google).</p> </blockquote> <p>Off the top of my head the only hardware startup of this era that’s seemingly standing on its own is Tesla — <a href="https://www.fool.com/investing/2019/10/31/tesla-revs-up-earnings-but-will-it-stall.aspx">and its future remains questionable</a>.</p> <p><a href="https://twitter.com/benbajarin/status/1190283512181485568">Ben Bajarin</a>:</p> <blockquote> <p>Fitbit 2019 revenue estimates are $1.45B so Google buying for $2.1B is not even 2x revenue.</p> <p>When negotiating an acquisition 3x revenue is usually the baseline. This is telling about the state of Fitbit.</p> </blockquote> <p>I don’t know anyone who’s bought a Fitbit device recently. I know runners and cyclists with Garmin watches, but I don’t know anyone still wearing a Fitbit.</p> <div> <a title="Permanent link to ‘Google to Acquire Fitbit for $2.1 Billion’" href="https://daringfireball.net/linked/2019/11/01/googlebit">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Jason Snell on Apple’s Drive for Services Revenue</title>
+<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2019/11/as-apples-services-grow-its-gifts-for-users-and-arpu-for-analysts/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ry3"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/01/snell-services"/>
+<id>tag:daringfireball.net,2019:/linked//6.36219</id>
+<published>2019-11-02T01:21:31Z</published>
+<updated>2019-11-02T07:19:19Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Jason Snell, writing at Six Colors:</p> <blockquote> <p>Consider the soul-sucking term ARPU. It stands for Average Revenue Per User (or, alternately, Unit), and it’s a useful-yet-noxious lens through which businesses can view their customers. Of course, businesses should be aware about how much revenue their customers are generating — the issue is more that focusing on ARPU is often a sign that a business is on a path that will attempt to wring every last penny out of its customers. It’s a sign of nickel-and-diming, sliding in hidden fees, and all sorts of other questionable practices that make sense if you’re looking at a balance sheet — but are so infuriating if you’re a customer.</p> </blockquote> <p>Apple doesn’t do hidden fees. And its media subscription services are all good deals. Music and News have fair prices, and both of those require Apple to pay the content providers. $5/month for TV+ —  including family sharing — is a lower price than most people expected, and the free-first-year-with-hardware-purchase makes it even better. And Apple Arcade is an undeniable bargain at $5/month — again, including family sharing.</p> <p>To me, every one of these feels exactly in line with putting the customer experience first. Compare and contrast with the high prices and bullshit tack-on fees from your cable and cell phone providers.</p> <p>But then there’s iCloud storage — Apple’s original subscription service. <a href="https://support.apple.com/en-us/HT201238">The prices for iCloud’s storage tiers</a> compare OK against <a href="https://one.google.com/about">competitors like Google</a>, but I’d still like to see a significantly higher free base tier (Google offers 15 GB vs. Apple’s 5 GB). That miserly 5 GB free tier is emitting an evermore pungent nickel-and-diming aroma.</p> <div> <a title="Permanent link to ‘Jason Snell on Apple’s Drive for Services Revenue’" href="https://daringfireball.net/linked/2019/11/01/snell-services">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Apple’s Q4 2019 Results</title>
+<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2019/10/apple-reports-fourth-quarter-results/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ry2"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/01/aapl-q4-2019-results"/>
+<id>tag:daringfireball.net,2019:/linked//6.36218</id>
+<published>2019-11-02T00:39:40Z</published>
+<updated>2019-11-02T03:25:02Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Nothing surprising overall. What struck me <a href="https://www.apple.com/newsroom/pdfs/Q4%20FY19%20Consolidated%20Financial%20Statements.pdf">looking at the numbers</a> is that while everyone is talking about Services, the “Wearables, Home, and Accessories” category — driven primarily by Apple Watch and AirPods — is growing fast too:</p> <ul> <li>iPhone: $33.4B</li> <li>Mac: $7.0B</li> <li>iPad: $4.7B</li> <li>Wearables: $6.5B</li> <li>Services: $12.5B</li> </ul> <p>Wearables are now bigger than iPad and will soon be bigger than the Mac. And the glasses are supposedly coming next year, and the $250 AirPods Pro just shipped.</p> <p>The best charts for visualizing these results, as usual, <a href="https://sixcolors.com/post/2019/10/apple-results-64b-in-revenue-on-record-services-income/">are at Six Colors</a>.</p> <div> <a title="Permanent link to ‘Apple’s Q4 2019 Results’" href="https://daringfireball.net/linked/2019/11/01/aapl-q4-2019-results">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/2019/11/getting_started_with_apple_tv_plus"/>
+<link rel="shorturl" href="http://df4.us/ry1"/>
+<id>tag:daringfireball.net,2019://1.36217</id>
+<published>2019-11-01T22:44:58Z</published>
+<updated>2019-11-09T23:50:21Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<summary type="text">
+It was a simple four-tap process to sign up — fast, easy, and obvious.
+</summary>
+<content type="html" xml:base="https://daringfireball.net/" xml:lang="en">
+<![CDATA[
+<p>I’ve been curious ever since the “first year free with the purchase of a new Apple device” deal was announced how exactly it was going to work. For me, it was seamless. I went to the TV app on my iPhone (which is, <a href="https://daringfireball.net/linked/2019/10/31/ios-13-2-background-app-massacre">unfortunately</a>, running iOS 13.2 — not sure if that matters), and when I tapped on “The Morning Show”, it recognized that I had purchased a new iPhone and qualified for the year-long free subscription.</p> <p>It was a simple four-tap process to sign up — fast, easy, and obvious. Here’s a little diagram I made illustrating the four steps.</p> <p><a href="/misc/2019/11/apple-tv-plus-signup.png" class="noborder"> <img src = "/misc/2019/11/apple-tv-plus-signup.png" alt = "A series of 4 screenshots illustrating the Apple TV+ signup process." width = 425 /></a></p> <p>The fourth step is so super obvious that, rather than direct your attention to the button where you agree to the Apple Pay confirmation, I pointed instead to a layout bug that has plagued me for at least three or four years with this Apple Pay confirmation sheet. To wit, my iTunes Apple ID email address gets mis-wrapped as “<em>myaddress</em>@daringfireball.ne” + “t”. This annoys me, tremendously, every time I see it. It’s as though every single time I confirm an Apple Pay purchase with my phone, Apple throws a little bit of sand into my eyes. It’d be bad enough if the email address were broken between the “daringfireball” and the “.net”. A long enough email address has to break somewhere. But to just break at the “t” — a one-character widow that doesn’t even vaguely fall at a natural break — is a violation of every known <a href="https://web.archive.org/web/20050310054738/http://www.melbpc.org.au/pcupdate/9100/9112article4.htm">typographic norm for splitting words</a> that don’t fit. And just look at it — clearly there’s enough room for the “t” there. It <em>should</em> fit, which makes it all the more maddening.</p> <p>The other cool thing about Apple TV+ is that you can watch it using the <a href="https://tv.apple.com/">tv.apple.com</a> domain from any device with a supported browser. I wasn’t expecting that, but should have, given that <a href="https://www.theverge.com/2019/9/5/20851576/apple-music-web-player-interface-beta-browser-streaming">Apple Music became web-enabled</a> a few weeks ago. Nice work.</p>
+]]>
+</content>
+<title>
+★ Getting Started With Apple TV+ Is Easy and Obvious and Only the Very Last Step, Which Isn’t Related to the Apple TV+ Signup Process in Particular, Made Me Want to Throw My iPhone Against a Wall
+</title>
+</entry>
+<entry>
+<title>
+Shootout: Best Wireless In-Ear Charging Case Lid Sound Competition
+</title>
+<link rel="alternate" type="text/html" href="https://twitter.com/SnazzyQ/status/1190072892010024960"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/ry0"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/01/nelson-case-sound"/>
+<id>tag:daringfireball.net,2019:/linked//6.36216</id>
+<published>2019-11-01T21:08:09Z</published>
+<updated>2019-11-01T21:08:10Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Wait for it.</p> <div> <a title="Permanent link to ‘Shootout: Best Wireless In-Ear Charging Case Lid Sound Competition’" href="https://daringfireball.net/linked/2019/11/01/nelson-case-sound">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+‘Maintainable Code Is More Important Than Clever Code’
+</title>
+<link rel="alternate" type="text/html" href="https://blog.dropbox.com/topics/company/thank-you--guido"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxz"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/01/van-rossum-clever-code"/>
+<id>tag:daringfireball.net,2019:/linked//6.36215</id>
+<published>2019-11-01T20:33:09Z</published>
+<updated>2019-11-01T20:33:10Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>The Dropbox company blog, giving thanks to Python creator Guido van Rossum:</p> <blockquote> <p>“There was a small number of really smart, really young coders who produced a lot of very clever code that only they could understand,” said van Rossum. “That is probably the right attitude to have when you’re a really small startup.”</p> <p>But as the company grew, new engineers who joined couldn’t understand the code. Clever code is usually short and cryptic, written by and for the individual who came up with it, but is hard for anyone else to understand — and nearly impossible to maintain. Guido called this “cowboy coding culture”. He recognized its value in our early stages of trying to implement things quickly, but knew it wouldn’t be sustainable over time, so he decided to speak up in his own quiet way.</p> <p>“When asked, I would give people my opinion that maintainable code is more important than clever code,” he said. “If I encountered clever code that was particularly cryptic, and I had to do some maintenance on it, I would probably rewrite it. So I led by example, and also by talking to other people.”</p> </blockquote> <p>My very favorite quote along these lines <a href="https://en.wikiquote.org/wiki/Brian_Kernighan">is from Brian Kernighan</a>: “Everyone knows that debugging is twice as hard as writing a program in the first place. So if you’re as clever as you can be when you write it, how will you ever debug it?”</p> <div> <a title="Permanent link to ‘‘Maintainable Code Is More Important Than Clever Code’’" href="https://daringfireball.net/linked/2019/11/01/van-rossum-clever-code">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>The Talk Show: ‘With Ham I’d Be Better’</title>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2019/10/31/ep-268"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxy"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/11/01/the-talk-show-268"/>
+<id>tag:daringfireball.net,2019:/linked//6.36214</id>
+<published>2019-11-01T20:02:27Z</published>
+<updated>2019-11-01T20:02:29Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>That’s right, another new episode of America’s favorite 3.5-star podcast, this time with first-time special guest <a href="https://twitter.com/davemark">Dave Mark</a>. Topics include AirPods Pro, the subscription streaming war, and the Washington Nationals’ then-impending triumph over the Houston Astros in the World Series.</p> <p>Sponsored by:</p> <ul> <li><a href="https://expressvpn.com/tts">ExpressVPN</a>: Protect your online activity today with the VPN services rated #1 by TechRadar and get 3 months free with a 1-year package.</li> <li><a href="https://linode.com/thetalkshow">Linode</a>: Instantly deploy and manage an SSD server in the Linode Cloud. Get a server running in seconds with your choice of Linux distro, resources, and choice of 10 node locations.</li> <li><a href="https://hellofresh.com/">Hello Fresh</a>: A meal kit delivery service that shops, plans, and delivers your favorite step-by-step recipes and pre-measured ingredients so you can just cook, eat, and enjoy.</li> </ul> <div> <a title="Permanent link to ‘The Talk Show: ‘With Ham I’d Be Better’’" href="https://daringfireball.net/linked/2019/11/01/the-talk-show-268">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+iOS 13.2 Is Overzealously Killing Apps in the Background
+</title>
+<link rel="alternate" type="text/html" href="https://twitter.com/marcoarment/status/1189899504562122752"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxx"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/31/ios-13-2-background-app-massacre"/>
+<id>tag:daringfireball.net,2019:/linked//6.36213</id>
+<published>2019-11-01T01:00:22Z</published>
+<updated>2019-11-01T21:05:44Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Marco Arment, on Twitter:</p> <blockquote> <p>Major new bugs introduced in iOS 13.2:</p> <ul> <li><p>background downloads often hang forever and never run</p></li> <li><p>apps get killed in the background so aggressively that iOS effectively doesn’t offer multitasking anymore</p></li> </ul> <p>… continuing the iOS 13 pattern of breaking long-held basic functionality. I’m sure Apple has good excuses about why their software quality is so shitty again. I hear the same thing over and over from people inside: they aren’t given enough time to fix bugs.</p> <p>Your software quality is broken, Apple. Deeply, systemically broken. Get your shit together.</p> </blockquote> <p>This bug where apps are getting killed soon after they’re backgrounded is driving me nuts. Start a YouTube video in Safari, switch to another app, go back to Safari — and the video loads from scratch and starts from the beginning.</p> <p>If I could downgrade to 13.1.3 I probably would, even though it’d mean losing AirPods Pro support until 13.2.1 comes out — which perhaps erroneously presumes that this overzealous process reaping is a bug and not a “feature”.</p> <div> <a title="Permanent link to ‘iOS 13.2 Is Overzealously Killing Apps in the Background’" href="https://daringfireball.net/linked/2019/10/31/ios-13-2-background-app-massacre">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Twitter to Stop Accepting Political Ads Globally</title>
+<link rel="alternate" type="text/html" href="https://twitter.com/jack/status/1189634360472829952"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxw"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/31/twitter-political-ads"/>
+<id>tag:daringfireball.net,2019:/linked//6.36212</id>
+<published>2019-10-31T22:27:36Z</published>
+<updated>2019-10-31T22:27:37Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Jack Dorsey, in a tweet thread:</p> <blockquote> <p>For instance, it‘s not credible for us to say: “We’re working hard to stop people from gaming our systems to spread misleading info, buuut if someone pays us to target and force people to see their political ad… well… they can say whatever they want!” […]</p> <p>This isn’t about free expression. This is about paying for reach. And paying to increase the reach of political speech has significant ramifications that today’s democratic infrastructure may not be prepared to handle. It’s worth stepping back in order to address.</p> </blockquote> <p>Political advertising is a drop in the bucket of Twitter’s overall revenue, but that’s true of Facebook too. “<em>The money matters to us</em>” would be a terrible justification for Facebook’s policy of allowing political ads to spread falsehoods, but the money <em>doesn’t</em> even matter to them. Facebook is allowing political ads to spread falsehoods because Facebook wants political ads to spread falsehoods. There’s no other explanation.</p> <div> <a title="Permanent link to ‘Twitter to Stop Accepting Political Ads Globally’" href="https://daringfireball.net/linked/2019/10/31/twitter-political-ads">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Transparency Is Audio AR</title>
+<link rel="alternate" type="text/html" href="https://twitter.com/rjonesy/status/1189696239543181322"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxv"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/31/transparency-is-audio-ar"/>
+<id>tag:daringfireball.net,2019:/linked//6.36211</id>
+<published>2019-10-31T19:37:02Z</published>
+<updated>2019-10-31T19:37:03Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Ryan Jones, on Twitter:</p> <blockquote> <p>You can FEEL the pressure equalize when you put in AirPods Pro, wow.</p> </blockquote> <p>You can really feel the difference between AirPods Pro and other ear-canal-sealing earbuds when you chew something with them on. Totally different experience.</p> <blockquote> <p>But my favorite is Transparency Mode. It’s like a personal soundtrack to the world. Nothing changes, just an extra audio layered added. Holy hell.</p> </blockquote> <p>This comment crystalized a thought that I couldn’t quite put my finger on while trying to describe transparency mode: it is audio AR. That’s it.</p> <div> <a title="Permanent link to ‘Transparency Is Audio AR’" href="https://daringfireball.net/linked/2019/10/31/transparency-is-audio-ar">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+Ryan Block on AirPods Pro vs. Bose QuietComfort 35 Headphones
+</title>
+<link rel="alternate" type="text/html" href="https://twitter.com/ryan/status/1189643522418151424"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxu"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/31/block-airpods-pro"/>
+<id>tag:daringfireball.net,2019:/linked//6.36210</id>
+<published>2019-10-31T18:00:11Z</published>
+<updated>2019-10-31T22:28:43Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Ryan Block, on Twitter:</p> <blockquote> <p>AirPods Pro update: brought them to a relatively (but not ridiculously) noisy cafe, and compared them with my daily driver Bose QC 35 II (v4.5.2).</p> <p>Thus far, the AirPods Pro are, for me, noticeably better at both noise cancelation and sound isolation. I’m pretty surprised!</p> <p>I’ve swapped back to the Boses a few times over the last hour. Each time the cafe music and noise has been significantly worse with the Boses over the AirPods, and I’ve had to listen to music at much higher volumes to drown it out. I was not at all expecting this outcome, tbqh.</p> </blockquote> <p>I have the same Bose headphones, and I agree. AirPods Pro noise cancellation isn’t just good for earbud-style headphones — it’s very good noise cancellation period.</p> <p>Anyone want to buy my Bose headphones? They’ve got a nice case.</p> <div> <a title="Permanent link to ‘Ryan Block on AirPods Pro vs. Bose QuietComfort 35 Headphones’" href="https://daringfireball.net/linked/2019/10/31/block-airpods-pro">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/2019/10/airpods_pro_first_impressions"/>
+<link rel="shorturl" href="http://df4.us/rxt"/>
+<id>tag:daringfireball.net,2019://1.36209</id>
+<published>2019-10-30T04:59:00Z</published>
+<updated>2019-10-30T15:52:47Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<summary type="text">
+Apple invited a few dozen media folks to New York today for a briefing and early access to the new AirPods Pro. My initial impression: I like them.
+</summary>
+<content type="html" xml:base="https://daringfireball.net/" xml:lang="en">
+<![CDATA[
+<p>Apple invited a few dozen media folks to New York today for a briefing and early access to the new AirPods Pro. My initial impression: I like them.</p> <p>I left for home around 2:30 in the afternoon, and wore the AirPods Pro for the next three hours: on the subway in Manhattan, waiting (briefly, mercifully) in the cacophonous Penn Station, on the train ride home to Philadelphia, walking home through Center City Philadelphia, and then in my house. The subway, a train ride, and busy city streets are pretty good tests for noise cancellation.</p> <p>Noise cancellation worked really well for me. I own a pair of Bose over-the-ear noise canceling wireless headphones, but almost exclusively wear them only on airplanes and trains. Wearing noise-canceling earbuds on the subway and walking through the city is going to take some getting used to. It’s so good you really do lose sense of your surrounding aural environment.</p> <p>I was a dummy and didn’t take my Bose headphones on my trip today, so I can’t say how they compare side-by-side on the train, but there’s no question how AirPods Pro compare to regular AirPods. The difference is like night and day. Amtrak trains are pretty noisy — especially at what we in the U.S. so adorably consider “high speeds” — but with AirPods Pro the clackety-clack rumble was effectively blocked out.</p> <p>The “Transparency” mode is interesting and a little mind-bending. It really does make it possible to conduct a conversation while still enjoying the benefits of noise cancellation. Because the silicone tips seal against your inner ear, when you turn AirPods Pro noise cancellation completely off, you really can’t hear much around you. They’re like earplugs. Transparency lets you hear <em>parts</em> of the world around you. One obvious use case for this: jogging or running and maybe just plain walking on streets where you <em>want</em> to hear the sounds of traffic.</p> <p>My corner store has a noisy refrigeration unit. With AirPods Pro on — playing nothing — I couldn’t hear it at all. I couldn’t tell that my dishwasher was running even though I was sitting right across from it in my kitchen. As someone who doesn’t generally write while listening to music, I’m likely to use AirPods Pro, playing nothing, just to tune out the world around me in a noisy space.</p> <p>The force sensor — the flat section on the earbuds stem that faces forward when in your ear — is effectively a button. But it’s not a button. It doesn’t actually move, and it doesn’t provide haptic feedback. But it acts like a button and — most importantly — <em>sounds</em> like a button. When you press it, the AirPod Pro plays a click. I use the singular <em>AirPod</em> there because the click only plays in the bud whose force sensor you pressed. The effect is uncannily like clicking a real button. In a similar way to how force touch trackpads on modern MacBooks and Touch ID iPhone home buttons feel like they truly click, the AirPods Pro force sensors feel like actual clicking buttons. They actually have more of a premium clicky feel than the truly clicking buttons on Apple’s wired EarPods, even though they don’t actually click. It’s uncanny, and Apple at its best.</p> <p>Another nice Apple-at-its-best touch: in Control Center on iOS, <a href="https://daringfireball.s3.us-east-1.amazonaws.com/misc/2019/10/airpods-pro-control-center.mp4">you can long-press the volume control while wearing AirPods Pro to get a nice little three-way selector</a> to choose between noise cancellation, off, and transparency. The selection indicator animates nicely, the sounds are delightful (although you can’t hear them in the movie linked above), and you can change the setting both by tapping another option or by dragging the selection indicator. It’s a simple little interaction done exquisitely well.</p> <p>Force sensor actions:</p> <ul> <li>Single-click: play/pause</li> <li>Double-click: next track</li> <li>Triple-click: previous track</li> </ul> <p>By default, press-and-hold toggles between regular noise cancellation and transparency modes. That means, by default, the only way to invoke Siri is through the “Hey Siri” verbal command. But if you want to invoke Siri through a long-press, you can change that in the Bluetooth section of Settings on your iPhone or iPad. And, you can change it per-ear — so you can have your left AirPod Pro toggle transparency and the right one invoke Siri.</p> <p>Also in the Bluetooth settings is the Ear Tip Fit Test. It’s very easy. Put the AirPods Pro in your ears, and start the test. It plays a song for about five seconds and decides whether you have a good fit with the current size tips. There’s nothing “smart” about the silicone tips themselves — the AirPods Pro don’t “know” which size tips you’re currently wearing. The Fit Test just tells you if the current ones in your ear are a good fit. For me, the default medium tips feel best and the Ear Tip Fit Test consistently agrees. For my son, the medium tips felt uncomfortable, and the Fit Test agreed they weren’t a good fit. For him, the small tips felt better and the Fit Test agreed. According to Apple, many people have differently-shaped ears and might need a different tip size for each ear, and if that’s the case the Fit Test will suggest it.</p> <p>Swapping the tips is easy, but it takes a bit more pull than I expected to pop them off. Don’t be afraid — the tips seem rugged. And replacement tips from Apple will cost only $4 — truly cheap.</p> <p>The AirPods Pro case is about 15% larger by volume than the regular AirPods case. That’s unfortunate, but it’s not noticeable in a regular pants pocket, and it still fits in <a href="https://www.huffpost.com/entry/small-pocket-jeans-watches-cowboys_n_56a7720ce4b0b87beec5eb5f">the fifth pocket</a> of a pair of Levi’s 501 jeans.</p> <p>Battery life, so far, is exactly in line with Apple’s stated specs. My review unit started at 75% (both the buds and the case). After three straight hours of use, the buds were down to about 10%. So if three hours of use consumed two-thirds of the battery, a full charge should last about 4.5 hours — which is <em>exactly</em> Apple’s claim.</p> <p>Comfort-wise, my ears felt fine after those three consecutive hours of use. It’s a very different feeling compared to regular AirPods, but I like it. I’ve never had a problem with regular AirPods falling out of my ears, but AirPods Pro feel <em>way</em> more secure. Without question, how they feel is subjective — so the good news is you can request a try-on in any Apple Store.</p>
+]]>
+</content>
+<title>★ AirPods Pro First Impressions</title>
+</entry>
+<entry>
+<title>The Talk Show: ‘Just the Tips’</title>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2019/10/29/ep-267"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxs"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/29/the-talk-show-267"/>
+<id>tag:daringfireball.net,2019:/linked//6.36208</id>
+<published>2019-10-30T04:23:17Z</published>
+<updated>2019-10-30T04:23:18Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Special guest John Moltz returns to the show. Topics include the just-released AirPods Pro (and the pluralization thereof), the history of remote controls, the impending launch of Apple TV+, and the undisputed highlight of the 2019 World Series.</p> <p>Brought to you by these excellent sponsors:</p> <ul> <li><a href="https://squarespace.com/talkshow">Squarespace</a>: Make your next move. Use code <strong>talkshow</strong> for 10% off your first order.</li> <li><a href="https://fracture.me/">Fracture</a>: Your photos printed in vivid color directly on glass. Get 10% off your first order.</li> <li><a href="https://casper.com/talkshow">Casper</a>: A sleep brand that makes expertly designed products to help you get your best rest, one night at a time.</li> </ul> <div> <a title="Permanent link to ‘The Talk Show: ‘Just the Tips’’" href="https://daringfireball.net/linked/2019/10/29/the-talk-show-267">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+The Answer: Like if an Apple Watch and an iPad Pro Had a Very Ugly Baby
+</title>
+<link rel="alternate" type="text/html" href="https://mashable.com/article/xiaomi-mi-watch/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxr"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/29/xiaomi-watch"/>
+<id>tag:daringfireball.net,2019:/linked//6.36207</id>
+<published>2019-10-30T03:13:07Z</published>
+<updated>2019-10-30T03:16:02Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>The question: What does Xiaomi’s first smartwatch look like?</p> <div> <a title="Permanent link to ‘The Answer: Like if an Apple Watch and an iPad Pro Had a Very Ugly Baby’" href="https://daringfireball.net/linked/2019/10/29/xiaomi-watch">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Dieter Bohn’s Pixel 4 Review</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/2019/10/21/20923660/google-pixel-4-xl-review-camera-radar-face-unlock-90hz-display-telephoto"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxq"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/29/bohn-pixel-4"/>
+<id>tag:daringfireball.net,2019:/linked//6.36206</id>
+<published>2019-10-30T02:18:10Z</published>
+<updated>2019-10-30T02:18:11Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Dieter Bohn, writing for The Verge:</p> <blockquote> <p>The Pixel 4 and Pixel 4 XL are the best argument that specs don’t tell you everything you need to know about a phone — because the experience of using a Pixel 4 is better than any other Android phone.</p> <p>There is a nuanced difference between saying “specs don’t tell you the whole story” and “specs don’t matter,” because they absolutely do — if only because the wrong ones can ruin the whole thing. There are a few places where Google could have done better, especially with battery life. But overall the Pixel 4 hits enough of the marks to pass, and it’s a few new features from Google that push the experience ahead of the pack.</p> </blockquote> <p>I’ve always thought, and still think now, that the best description of the Pixel phones is that they’re for people who want to use a Google-centric version of Android on iPhone-like hardware. Even the argument that “specs don’t tell you the whole story” sounds like the lede of an Apple product review.</p> <div> <a title="Permanent link to ‘Dieter Bohn’s Pixel 4 Review’" href="https://daringfireball.net/linked/2019/10/29/bohn-pixel-4">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+Joanna Stern’s Pixel 4 Review: ‘The Smartest Smartphone You Probably Won’t Buy’
+</title>
+<link rel="alternate" type="text/html" href="https://www.wsj.com/articles/google-pixel-4-review-the-smartest-smartphone-you-probably-wont-buy-11571662801"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxp"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/29/stern-pixel-4"/>
+<id>tag:daringfireball.net,2019:/linked//6.36205</id>
+<published>2019-10-30T02:07:32Z</published>
+<updated>2019-10-30T02:07:33Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>The good:</p> <blockquote> <p>Voice. Ah, my true love: the Recorder app. Hit record, and in real-time it instantly transcribes what’s being said. Unlike with many competing dictation apps that require connection to the cloud, this process happens entirely on the Pixel device. Even when you cut the Wi-Fi and cellular connections, it works — and works super well, as you can see in the video.</p> <p>I recruited people with different voices, including one of the world’s fastest talkers. It struggled when transcribing Shakespeare, and stumbled on an Irish accent, but it held its own, especially on speed, against a court stenographer. None of the recordings or transcripts are shared with Google; no other apps have access to the recordings, unless you explicitly choose to share them.</p> </blockquote> <p>Truly seems like an amazing feature — especially so that it’s entirely on-device. This puts iOS’s transcription to shame.</p> <p>The bad:</p> <blockquote> <p>The battery life is unforgivingly so-so. In my testing of the Pixel 4 XL, I was often in the red by 9 p.m. — substantially earlier than with the new iPhones. On the days I tested the Recorder app, I had to charge around 5 p.m. (Google warns that transcription and captioning can tax the battery.) The regular-size Pixel 4 has an even smaller battery, rated for even shorter battery life.</p> </blockquote> <div> <a title="Permanent link to ‘Joanna Stern’s Pixel 4 Review: ‘The Smartest Smartphone You Probably Won’t Buy’’" href="https://daringfireball.net/linked/2019/10/29/stern-pixel-4">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>iOS 13.2 Emoji Changelog</title>
+<link rel="alternate" type="text/html" href="https://blog.emojipedia.org/ios-13-2-emoji-changelog/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxo"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/29/ios-13-2-emoji"/>
+<id>tag:daringfireball.net,2019:/linked//6.36204</id>
+<published>2019-10-30T02:01:32Z</published>
+<updated>2019-10-30T02:01:34Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Keith Broni, writing for Emojipedia:</p> <blockquote> <p>Today Apple has released iOS 13.2, introducing the likes of a white heart, yawning face and flamingo to the emoji keyboard. A more diverse keyboard adds options such as people holding hands with a mix of skin tones, people in wheelchairs, with a hearing aid or cane.</p> </blockquote> <p>A lot of changes — including a bunch with gender-neutral defaults. I like the UI for choosing skin colors for both sides of the people-holding-hands emoji.</p> <div> <a title="Permanent link to ‘iOS 13.2 Emoji Changelog’" href="https://daringfireball.net/linked/2019/10/29/ios-13-2-emoji">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Software ETAs</title>
+<link rel="alternate" type="text/html" href="https://inessential.com/2019/10/28/no_etas"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxn"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/29/simmons-etas"/>
+<id>tag:daringfireball.net,2019:/linked//6.36203</id>
+<published>2019-10-29T06:35:22Z</published>
+<updated>2019-10-30T15:03:33Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Brent Simmons:</p> <blockquote> <p>The only reason anything ever ships is because people just keep working until it’s ready.</p> </blockquote> <div> <a title="Permanent link to ‘Software ETAs’" href="https://daringfireball.net/linked/2019/10/29/simmons-etas">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+Read the Letter Facebook Employees Sent to Mark Zuckerberg About Political Ads
+</title>
+<link rel="alternate" type="text/html" href="https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-letter.html"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxm"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/28/facebook-employee-letter"/>
+<id>tag:daringfireball.net,2019:/linked//6.36202</id>
+<published>2019-10-29T02:50:47Z</published>
+<updated>2019-10-29T02:50:48Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>From a letter signed by 250 employees, obtained by The New York Times:</p> <blockquote> <p>We’re reaching out to you, the leaders of this company, because we’re worried we’re on track to undo the great strides our product teams have made in integrity over the last two years. We work here because we care, because we know that even our smallest choices impact communities at an astounding scale. We want to raise our concerns before it’s too late.</p> <p>Free speech and paid speech are not the same thing.</p> </blockquote> <p>Many are noting, correctly, that Facebook has 35,000 employees (which sounds like too many to me), so 250 signatures is a small percentage. But if this accurately reflects a large number of employees’ thoughts, it could be trouble for Facebook.</p> <p><strong>See also:</strong> <a href="https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-political-ads.html?module=inline">Mike Isaac’s report for the NYT on the letter</a>.</p> <div> <a title="Permanent link to ‘Read the Letter Facebook Employees Sent to Mark Zuckerberg About Political Ads’" href="https://daringfireball.net/linked/2019/10/28/facebook-employee-letter">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>
+Facebook Allows Prominent Right-Wing Website to Break the Rules
+</title>
+<link rel="alternate" type="text/html" href="https://popular.info/p/facebook-allows-prominent-right-wing"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxl"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/28/facebook-daily-wire-legum"/>
+<id>tag:daringfireball.net,2019:/linked//6.36201</id>
+<published>2019-10-29T02:45:19Z</published>
+<updated>2019-10-29T02:45:20Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Judd Legum, writing for Popular Info:</p> <blockquote> <p>The Daily Wire, the right-wing website founded by pundit Ben Shapiro, is a <a href="https://www.mediamatters.org/daily-wire/daily-wire-cesspool-hatred-and-bigotry">cesspool</a> of misogyny, bigotry, and misinformation. Its toxic content is also fantastically successful on Facebook, with each story reaching more people than any other major media outlet. A Popular Information investigation reveals some of this success is attributable to a clandestine network of 14 large Facebook pages that purport to be independent but exclusively promote content from The Daily Wire in a coordinated fashion.</p> <p>This kind of “inauthentic coordinated behavior” violates Facebook’s rules. Facebook has taken down smaller and less coordinated networks that promoted liberal content. But Facebook told Popular Information that it will continue to allow this network to operate and amplify The Daily Wire’s content.</p> </blockquote> <p>As a complete sidenote to the main point of this — that Facebook is a right-wing company — notice how nice and clean and fast the Popular Info website is. The best websites these days aren’t from web publishers — they’re from mailing list publishers with websites.</p> <div> <a title="Permanent link to ‘Facebook Allows Prominent Right-Wing Website to Break the Rules’" href="https://daringfireball.net/linked/2019/10/28/facebook-daily-wire-legum">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>This Rumor Didn’t Last Long</title>
+<link rel="alternate" type="text/html" href="https://www.macrumors.com/2019/10/26/airpods-pro-black-midnight-green-rumor/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxk"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/28/airpods-pro-colors"/>
+<id>tag:daringfireball.net,2019:/linked//6.36200</id>
+<published>2019-10-28T22:59:13Z</published>
+<updated>2019-10-29T03:18:00Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>MacRumors, two days ago:</p> <blockquote> <p>“AirPods Pro” will come in as many as eight colors, including White, Black, and a new Midnight Green finish to match iPhone 11 Pro models, according to <a href="https://translate.google.com/translate?sl=auto&amp;tl=en&amp;u=https%3A%2F%2Fmoney.udn.com%2Fmoney%2Fstory%2F5612%2F4128067">a Chinese-language report from the Economic Daily News</a>.</p> </blockquote> <p>Turns out you can get AirPods Pro in any color you want, so long as it’s white.</p> <p>I’m genuinely curious why Apple <em>doesn’t</em> offer AirPods in more colors. Seems like something people would enjoy, especially black. My best guess is that Apple considers <a href="https://www.pophistorydig.com/topics/ipod-silhouettes-2000-2011/">white earbuds to be iconic</a> and part of the Apple brand.</p> <div> <a title="Permanent link to ‘This Rumor Didn’t Last Long’" href="https://daringfireball.net/linked/2019/10/28/airpods-pro-colors">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>AirPods Pro Feature ‘Ear Tip Fit Test’</title>
+<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2019/10/apple-introduces-airpods-pro/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxi"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/28/airpods-pro-ear-tip-fit-test"/>
+<id>tag:daringfireball.net,2019:/linked//6.36198</id>
+<published>2019-10-28T21:10:03Z</published>
+<updated>2019-10-28T21:10:04Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>Dan Moren, writing at Six Colors:</p> <blockquote> <p>As someone who hasn’t invested into AirPods because of concerns about fit, I’m most interested in the “Ear Tip Fit Test” that Apple says uses an algorithm to figure out whether the ear tip you’re using is the right fit for your ear, based on the sound level in your ear versus what the drivers are actually outputting.</p> </blockquote> <p>I’ve had a few earbuds before that came with multiple tips, and I’ve never felt certain whether I chose the best ones for me. Some people might prefer a different size than the one recommended by this algorithm, but it’s a welcome feature for someone like me, who’s often paralyzed by a choice like this.</p> <div> <a title="Permanent link to ‘AirPods Pro Feature ‘Ear Tip Fit Test’’" href="https://daringfireball.net/linked/2019/10/28/airpods-pro-ear-tip-fit-test">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<title>Apple’s AirPods Pro Web Page: Scrolljacking Hell</title>
+<link rel="alternate" type="text/html" href="https://www.apple.com/airpods-pro/"/>
+<link rel="shorturl" type="text/html" href="http://df4.us/rxh"/>
+<link rel="related" type="text/html" href="https://daringfireball.net/linked/2019/10/28/airpods-pro-scrolljacking-hell"/>
+<id>tag:daringfireball.net,2019:/linked//6.36197</id>
+<published>2019-10-28T20:07:50Z</published>
+<updated>2019-10-28T21:57:20Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en">
+<![CDATA[
+<p>The AirPods Pro “overview” web page is a strange beast. It pegs my 2015 MacBook Pro’s CPU — <em>even when I’m not scrolling</em>. I closed the tab a few minutes ago and my fan is still running. The animation is very jerky and scrolling feels so slow. There’s so much <a href="https://www.discoverydesign.co.uk/blog/post/scroll-hijacking-why-scrolljacking-is-a-usability-nightmare/">scrolljacking</a> that you have to scroll or page down several times just to go to the next section of the page. The animation is at least smooth on my iPad and iPhone, but even there, it feels like a thousand swipes to get to the bottom of the page. It’s a design that makes it feel like they don’t want you to keep reading. </p> <p>Disable JavaScript (easily toggled if you enable <a href="https://support.apple.com/guide/safari/use-the-developer-tools-in-the-develop-menu-sfri20948/mac">Safari’s Develop menu</a>) and the page is easy to read and looks great. I can’t recall an example where scrolljacking makes a website so much worse.</p> <p><strong>Update:</strong> Nick Heer (of <a href="https://pxlnv.com/">Pixel Envy</a> fame) messaged me to point out that the <a href="https://www.apple.com/ipad-pro/">iPad Pro product page</a> gives the AirPods Pro page a run for its money for top spot in the Scrolljacking Hall of Shame. The iPad Pro page doesn’t peg my MacBook Pro’s CPU, but it scrolls the view <em>horizontally</em> while you scroll vertically.</p> <div> <a title="Permanent link to ‘Apple’s AirPods Pro Web Page: Scrolljacking Hell’" href="https://daringfireball.net/linked/2019/10/28/airpods-pro-scrolljacking-hell">&nbsp;★&nbsp;</a> </div>
+]]>
+</content>
+</entry>
+<entry>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/2019/10/mails_message_action_toolbar_in_ios_13"/>
+<link rel="shorturl" href="http://df4.us/rx8"/>
+<id>tag:daringfireball.net,2019://1.36188</id>
+<published>2019-10-25T23:25:20Z</published>
+<updated>2019-11-15T04:38:15Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<summary type="text">
+What’s the point of having only two buttons and all that unused whitespace on the left side?
+</summary>
+<content type="html" xml:base="https://daringfireball.net/" xml:lang="en">
+<![CDATA[
+<p><a href="https://www.nbcnews.com/tech/apple/iphone-update-leaves-apple-fans-fuming-over-deleted-emails-n1071591">David Ingram, writing for NBC News</a>:</p> <blockquote> <p>Shannon Watts always replied to emails the same way: by touching the reply icon, tucked in a familiar spot near the bottom right corner of her iPhone. Then, one day a few weeks ago, the icon wasn’t there — and neither was the email. It was deleted by accident.</p> <p>It’s happened dozens of times since, frustrating Watts and many other iPhone users who’ve been tripped up by a minor change rolled out last month by Apple, a company renowned for its forward-thinking design.</p> <p>In the newest version of the iPhone email app, the trash icon is now where the reply icon used to be. And they’re too close together for some people.</p> </blockquote> <p>The change is perfectly illustrated and summarized <a href="https://twitter.com/chockenberry/status/1187461445186834434">in this tweet by Craig Hockenberry</a>: </p> <blockquote> <p>Muscle memory is a bitch.</p> <p><img src="/misc/2019/10/chock-mail-toolbar.jpeg" width="450"></p> </blockquote> <p>Things worth noting:</p> <ul> <li>You can long-press on the Trash icon to get an option to Archive instead.</li> <li>You can change the default from Trash to Archive in Settings → Passwords &amp; Accounts. Tap on an email account and navigate to Mail: Advanced, and you can change the default action for “Move Discarded Messages Into:” from Deleted Mailbox to Archive Mailbox.</li> <li>Trashing and Archiving are undoable actions. Just shake your iPhone or use the <a href="https://www.macworld.com/article/3410596/ios-13-and-ipados-13-how-to-use-the-new-gestures-for-cut-copy-paste-undo-and-redo.html">new three-finger swipe gestures for Undo and Redo</a>. But as this NBC News article makes clear, most people don’t know that Undo is pervasive system-wide on iOS.</li> </ul> <p>The new toolbar in iOS 13 Mail is just strange. The old toolbar had discrete buttons for Flag, Move, Trash/Archive, Reply, and New Message. Now it’s just Trash and Reply, with all of the other functionality stashed in the new Reply action sheet, pictured here <a href="/misc/2019/10/ios-13-reply-half.png">half-height</a> and <a href="/misc/2019/10/ios-13-reply-full.png">full-height</a>. That new “Reply” action sheet is really a “Do Something With This Message” sheet — I’m not sure what the icon for this should be, but the Reply icon seems like an odd choice. I know a few people who assumed that iOS 13 removed the ability to move messages to other mailboxes because the folder button was removed from the toolbar. They — reasonably! — never thought to look for it by tapping what clearly looks like the old familiar Reply icon.</p> <p>The Print command has long been stashed in the Reply action sheet — so arguably it’s always been more of a “Do Something With This Message” button than just a “Reply or Forward” button. But the iOS 13 Mail toolbar takes this to an extreme. It’s one thing to put new features (for which there’s no room on the toolbar) in the Reply action sheet; it’s another to move commands like Flag and Move that already had positions on the toolbar.</p> <p>I like the new “Do Something With This Message” action sheet in and of itself a lot — it’s an interesting design to fit more functionality in the limited screen real estate of the iPhone. There are a lot of apps that have run out of space in their toolbars that could borrow from this design. I particularly like that in the new action sheet, all the actions are labeled with words in addition to icons. But iOS 13 should have included a first-run explainer <em>showing</em> users where these features moved to.</p> <p>And it just seems odd to me that they moved all these features there in the first place. The iPhone really only has room for five toolbar buttons. Flag, Move, Trash, Reply, and New Message seemed like good ones. What’s the point of having only two buttons and all that unused whitespace on the left side? In addition to the fact that it’s not intuitive to look for Flag and Move commands behind a button that clearly looks like “Reply”, it’s also a bit frustrating to me that there’s no longer a way to just create a new message from this screen — you have to go back one level in the navigation controller to the list of messages to create a new (non-reply) message.</p> <p>At the very least, if the toolbar is only going to have these two buttons, why not place the Trash button on the far left, and put the whitespace between the two buttons? That would eliminate inadvertent taps on the Trash button from either pre-iOS 13 muscle memory or from proximity to the Reply button.</p>
+]]>
+</content>
+<title>
+★ The Curious Design of Mail’s Message Action Toolbar in iOS 13
+</title>
+</entry>
+<entry>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/2019/10/will_apple_hold_another_keynote_event_this_year"/>
+<link rel="shorturl" href="http://df4.us/rx3"/>
+<id>tag:daringfireball.net,2019://1.36183</id>
+<published>2019-10-23T02:02:36Z</published>
+<updated>2019-10-23T03:30:09Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<summary type="text">
+I fully expect more Apple hardware before the end of the year, but not another keynote event.
+</summary>
+<content type="html" xml:base="https://daringfireball.net/" xml:lang="en">
+<![CDATA[
+<p>Last year Apple held <a href="https://www.apple.com/apple-events/#october-2018">an event in Brooklyn on October 30</a>; invitations to the media were sent <a href="https://www.businessinsider.com/apple-invitation-designs-october-30-ipad-event-2018-10">on October 18</a>. In 2016, they held <a href="https://podcasts.apple.com/us/podcast/apple-special-event-october-2016-1080p/id509310064?i=1000430685294">an event on October 27 at the Town Hall</a> theater on the old Infinite Loop campus; invitations to that event were sent <a href="https://www.theverge.com/2016/10/19/13333830/apple-event-october-27-invite">October 19</a>.</p> <p>We’re running out of time for Apple to hold an event in October. Still possible, of course — those 2016 invitations only went out eight days in advance. But I think if it were going to happen, the invitations would’ve gone out today at the latest.</p> <p>But what about new products? We should see <a href="https://www.apple.com/mac-pro/">the new Mac Pros</a> launch before the end of the year. It sounds like we <a href="https://daringfireball.net/linked/2019/10/18/macbook-pro-16">might be getting a new 16-inch MacBook Pro</a> with a new keyboard that returns to reliable better-feeling scissor switches, and maybe <a href="https://www.macrumors.com/2019/10/18/airpods-pro-to-launch-end-of-october/">new high-end AirPods with noise cancellation</a>.</p> <p>Apple could still hold an event in October. They could hold an event in early November, although I don’t recall that ever happening. But recall that Apple held no October event in 2017, even though the iMac Pro was slated to ship before the end of that year. Instead of a keynote event, <a href="https://daringfireball.net/2017/12/imac_pro_first_impressions">Apple held private media briefings in New York City and Cupertino — in mid-December</a>.</p> <p>Updated AirPods are something Apple would ideally want to announce sooner rather than later, to make them available for holiday gift purchases. Mac Pros and high-end MacBook Pros aren’t holiday gifts. If Apple still intends to hold another 2019 keynote event, they’d want to announce everything remaining for 2019 at the event. If they do private media briefings though, they could easily hold separate briefings for the AirPods and Mac hardware.</p> <p>Another factor: I just don’t think these three products — assuming all three will launch this year — add up to a cohesive event. Apple doesn’t hold events willy-nilly just because there’s something new. They tell stories at events. There’s a narrative flow to them. AirPods, a slightly bigger MacBook Pro, and a Mac Pro that was unveiled in June at WWDC don’t make for an event. And the most interesting thing about the new MacBook Pro — the keyboard — isn’t something Apple would want to talk about on stage.</p> <p><strong>Bonus nugget:</strong> On the upcoming episode of my podcast, special guest <a href="https://twitter.com/reneritchie">Rene Ritchie</a> says his understanding is that Apple has its hands full dealing with the November 1 launch of TV+ and the premiere events for its various original shows. I fully expect more Apple hardware before the end of the year, but not another keynote event.</p>
+]]>
+</content>
+<title>
+★ Idle Speculation on Whether Apple Is Going to Hold Another Keynote Event This Year
+</title>
+</entry>
+<entry>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/2019/10/on_the_upcoming_photoshop_for_ipad"/>
+<link rel="shorturl" href="http://df4.us/rwz"/>
+<id>tag:daringfireball.net,2019://1.36179</id>
+<published>2019-10-21T20:48:34Z</published>
+<updated>2019-10-22T05:23:39Z</updated>
+<author>
+<name>John Gruber</name>
+<uri>http://daringfireball.net/</uri>
+</author>
+<summary type="text">
+Photoshop for iPad is *real* because it is using the same code base that’s been running on the desktop for decades. That’s an amazing technical accomplishment. Photoshop for iPad is not *full* — and the initial release was never planned to be — because it only exposes a subset of features from the desktop version.
+</summary>
+<content type="html" xml:base="https://daringfireball.net/" xml:lang="en">
+<![CDATA[
+<p>Mark Gurman and Nico Grant, reporting for Bloomberg, “<a href="https://www.bloomberg.com/news/articles/2019-10-17/when-is-photoshop-for-ipad-coming-out-features-and-details">Photoshop for iPad Nearing Launch With Some Key Features Missing</a>”:<sup id="fnr1-2019-10-21"><a href="#fn1-2019-10-21">1</a></sup></p> <blockquote> <p>“Feature-wise, it feels like a beefed-up cloud-based version of their existing iPad apps and not ‘real Photoshop’ as advertised,” said someone beta-testing the software, who declined to be named talking about an unreleased app. “I understand it is based on desktop Photoshop code, but it doesn’t feel like it right now.” Other testers have called the app “rudimentary” and said, in its current state, it is inferior to other apps like Procreate and Affinity on the iPad.</p> </blockquote> <p>Scott Belsky, chief product officer of Adobe’s Creative Cloud division, granted Bloomberg an interview for the story, and it’s worth reading.</p> <p>From what I gather, the mistake Adobe made was not precisely setting expectations for the initial release of Photoshop for iPad. When Adobe described it as “real” Photoshop, what a lot of people heard was “<em>full</em>” Photoshop, and that was never the plan. Some of this expectation-setting is attributable to Bloomberg, which described the project as “the full version of its Photoshop app” <a href="https://www.bloomberg.com/news/articles/2018-07-13/adobe-is-said-to-plan-photoshop-for-ipad-in-app-strategy-shift">as far back as July last year</a>.</p> <p>Photoshop for iPad is <em>real</em> because it is using the same code base that’s been running on the desktop for decades. That’s an amazing technical accomplishment. Photoshop for iPad is not <em>full</em> — and the initial release was never planned to be — because it only exposes a subset of features from the desktop version.</p> <p>But because Photoshop for iPad is built on the real Photoshop core, on day one it will provide complete roundtrip compatibility with PSD files exchanged with the desktop versions of Photoshop. It also means that as Adobe begins adding features to the iPad app after version 1, almost all of the work to be done is about designing and implementing the UI, because the core rendering and functionality is already there. I’m not suggesting that UI work is easy or quick (it’s neither), but the biggest and most important work getting Photoshop for iPad out the door is at the foundational level. It’s a foundation meant to last for a decade or more.</p> <p>What I’ve heard, from multiple reliable sources, is that Adobe is genuinely all-in on Photoshop for iPad. They view it as a serious, top-shelf project for creative professionals. The team of engineers working on it has grown significantly from a year ago, and they have plans to add features iteratively on an aggressive schedule. It’s reasonable to be disappointed that it isn’t further along feature-count-wise, but anyone who cares about Photoshop for iPad as a long-term product should be very excited about its foundation, direction, and the attention Adobe is paying to the fine details of a touch-first Photoshop UI.</p> <p>Photoshop for iPad is not a “port” (like Photoshop for Windows was, back in the day). It’s a rethinking of the app for modern UI surfaces.</p> <div class="footnotes"> <hr /> <ol> <li id="fn1-2019-10-21"> <p><a href="https://daringfireball.net/linked/2019/10/07/bloombergs-big-crap">You know</a>.&nbsp;<a href="#fnr1-2019-10-21" class="footnoteBackLink" title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p> </li> </ol> </div>
+]]>
+</content>
+<title>★ On the Upcoming Photoshop for iPad</title>
+</entry>
+</feed>
+<!--  THE END  -->
